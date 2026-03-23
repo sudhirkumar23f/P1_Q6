@@ -1,0 +1,6 @@
+{
+  "prompt": "Photorealistic cinematic scene. A master tailor in a dimly lit workshop meticulously pins and adjusts an extraordinarily contorted bespoke suit onto one very specific mannequin. The suit has dozens of extra tucks, darts and folds moulded to every quirk of this single form. A rack of normal suits hangs ignored in the background. No text, no labels, no diagrams.",
+  "model": "DALL-E 3",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored so precisely to one mannequin's quirks it fits no other — the model memorised one body and lost all generalisation."
+}
